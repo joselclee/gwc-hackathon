@@ -1,0 +1,12 @@
+.custom-nav {
+    background-color: #f8f9fa;
+    border-bottom: 1px solid #e9ecef;
+    padding: 10px;
+    font-size: 4vh;
+}
+
+.title-text {
+    font-size: 6vh;
+    font-weight: bold;
+    color: #D22030;
+}
