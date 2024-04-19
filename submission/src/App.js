@@ -1,4 +1,4 @@
-import { Router, Routes, Route } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Homepage from './pages/Homepage';
 import Calendar from './pages/Calendar';
 
@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <Router>
         <Routes>
-          <Route path="/Home" element={<Homepage />} />
+          <Route path="/" element={<Homepage />} />
           <Route path="/calendar" element={<Calendar />} />
         </Routes>
       </Router>
