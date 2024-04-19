@@ -43,8 +43,8 @@
 // export default Calendar;
 
 import React, { useEffect, useState } from 'react';
-import { Card } from 'react-bootstrap';
-import Header  from '../components/Header';
+import { Card, Container, Row, Col } from 'react-bootstrap';
+import Header from '../components/Header';
 
 const Calendar = () => {
   const [events, setEvents] = useState([]);
@@ -57,19 +57,25 @@ const Calendar = () => {
 
   return (
     <div className="Home">
-        <Header/>
-      {events.map(event => (
-        <Card key={event.id}>
-          <Card.Body>
-            <Card.Title>{event['event-name']}</Card.Title>
-            <Card.Text>
-              Start Time: {event['start-time']}<br />
-              End Time: {event['end-time']}<br />
-              Location: {event.location}
-            </Card.Text>
-          </Card.Body>
-        </Card>
-      ))}
+      <Header />
+      <Container>
+        <Row>
+          {events.map(event => (
+            <Col sm={4} key={event.id}>
+              <Card>
+                <Card.Body>
+                  <Card.Title>{event['event-name']}</Card.Title>
+                  <Card.Text>
+                    Start Time: {event['start-time']}<br />
+                    End Time: {event['end-time']}<br />
+                    Location: {event.location}
+                  </Card.Text>
+                </Card.Body>
+              </Card>
+            </Col>
+          ))}
+        </Row>
+      </Container>
     </div>
   );
 };
