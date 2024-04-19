@@ -1,0 +1,26 @@
+.carousel-container {
+    width: 70%;
+    height: 50vh;
+    margin: auto;
+}
+
+.featured {
+    width: 60%;
+    margin: auto;
+    height: 100%;
+    font-size: 6vh;
+    justify-content: center;
+    text-align: center;
+    padding: 10px 5vw 10px 5vw;
+    background-color: rgba(0, 0, 0, 0.0);
+    color: #D22030;
+    border-radius: 4px;
+    font-family: "Permanent Marker", cursive;
+}
+
+.permanent-marker-regular {
+    font-family: "Permanent Marker", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  

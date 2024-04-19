@@ -6,7 +6,11 @@
 }
 
 .title-text {
-    font-size: 6vh;
-    font-weight: bold;
-    color: #D22030;
+    font-size: 6vh !important;
+    font-weight: bold !important;
+    color: #D22030 !important;
+}
+
+.csun-text {
+    font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif;
 }
