@@ -1,5 +1,5 @@
-{
-    "event": {
+[
+    {
         "id": "1",
         "type": "campus",
         "club": "",
@@ -7,9 +7,8 @@
         "start-time": "2024-04-22T13:30:00",
         "end-time": "2024-04-22T16:30:00",
         "location": "Northridge Center"
-    }
-    
-    "event": {
+    },
+    {
         "id": "2",
         "type": "campus",
         "club": "",
@@ -17,9 +16,8 @@
         "start-time": "2024-04-25T10:00:00",
         "end-time": "2024-04-25T15:00:00",
         "location": "Bayramian Lawn"
-    }
-
-    "event": {
+    },
+    {
         "id": "3",
         "type": "campus",
         "club": "",
@@ -27,9 +25,8 @@
         "start-time": "2024-04-25T19:45:00",
         "end-time": "2024-04-25",
         "location": "SSRC Pool"
-    }
-
-    "event": {
+    },
+    {
         "id": "4",
         "type": "campus",
         "club": "",
@@ -37,9 +34,8 @@
         "start-time": "2024-04-26T18:00:00",
         "end-time": "2024-04-26T22:00:00",
         "location": "Plaza Del Sol"
-    }
-
-    "event": {
+    },
+    {
         "id": "5",
         "type": "campus",
         "club": "",
@@ -47,9 +43,8 @@
         "start-time": "2024-04-30T10:00:00",
         "end-time": "2024-04-30T15:00:00",
         "location": "Matador Square"
-    }
-
-    "event": {
+    },
+    {
         "id": "6",
         "type": "",
         "club": "",
@@ -57,9 +52,8 @@
         "start-time": "2024-05-06T16:00:00",
         "end-time": "2024-05-06T19:00:00",
         "location": "Northridge Center"
-    }
-
-    "event": {
+    },
+    {
         "id": "7",
         "type": "campus",
         "club": "",
@@ -67,9 +61,8 @@
         "start-time": "2024-05-08T10:00:00",
         "end-time": "2024-05-08T16:00:00",
         "location": "Matador Statue"
-    }
-
-    "event": {
+    },
+    {
         "id": "8",
         "type": "campus",
         "club": "",
@@ -77,19 +70,17 @@
         "start-time": "2024-05-17T12:00:00",
         "end-time": "2024-05-17T15:00:00",
         "location": "Northridge Center"
-    }
-
-    "event": {
+    },
+    {
         "id": "9",
         "type": "club",
         "club": "FASA",
         "event-name": "Pinoy Culture Night",
         "start-time": "2024-04-21T19:00:00",
         "end-time": "2024-04-21",
-        "location": "Plaza Del Sol Performance Hall" 
-    }
-
-    "event": {
+        "location": "Plaza Del Sol Performance Hall"
+    },
+    {
         "id": "10",
         "type": "club",
         "club": "KSUN",
@@ -98,64 +89,4 @@
         "end-time": "2024-04-24T15:30:00",
         "location": "TBA"
     }
-
-    "event": {
-        "id": "11",
-        "type": "club",
-        "club": "KSUN",
-        "event-name": "AAPI Dance Performance",
-        "start-time": "2024-05-07",
-        "end-time": "2024-05-07",
-        "location": "TBA"
-    }
-
-    "event": {
-        "id": "12",
-        "type": "club",
-        "club": "CSUN Trends",
-        "event-name": "Fashion Imprint (Fashion Show)",
-        "start-time": "2024-05-02T18:00:00",
-        "end-time": "2024-05-02",
-        "location": "University Student Union Center"
-    }
-
-    "event": {
-        "id": "13",
-        "type": "campus",
-        "club": "",
-        "event-name": "Tea Haven",
-        "start-time": "2024-04-22T13:30:00",
-        "end-time": "2024-04-22T16:30:00",
-        "location": ""
-    }
-
-    "event": {
-        "id": "",
-        "type": "",
-        "club": "",
-        "event-name": "",
-        "start-time": "2024-04-22T13:30:00",
-        "end-time": "2024-04-22T16:30:00",
-        "location": ""
-    }
-
-    "event": {
-        "id": "",
-        "type": "",
-        "club": "",
-        "event-name": "",
-        "start-time": "2024-04-22T13:30:00",
-        "end-time": "2024-04-22T16:30:00",
-        "location": ""
-    }
-
-    "event": {
-        "id": "",
-        "type": "",
-        "club": "",
-        "event-name": "",
-        "start-time": "2024-04-22T13:30:00",
-        "end-time": "2024-04-22T16:30:00",
-        "location": ""
-    }
-}
+]
