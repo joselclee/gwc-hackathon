@@ -83,12 +83,13 @@
         "id": "9",
         "type": "club",
         "club": "CSUN FASA",
-        "event-name": "Pinoy Culture Night",
+        "event-name": "Pilipino Culture Night",
         "start-time": "2024-04-21T19:00:00",
         "end-time": "2024-04-21",
         "location": "Plaza Del Sol Performance Hall" 
     }
 
+    
     "event": {
         "id": "10",
         "type": "club",
@@ -132,16 +133,6 @@
     "event": {
         "id": "14",
         "type": "club",
-        "club": "CSUN Sustainability",
-        "event-name": "Beach Clean Up",
-        "start-time": "2024-04-20T9:00:00",
-        "end-time": "2024-04-22T14:00:00",
-        "location": "Santa Monica Beach"
-    }
-
-    "event": {
-        "id": "15",
-        "type": "club",
         "club": "CSUN BSU & CSUN EASA",
         "event-name": "SoCal Picnic & Field Day",
         "start-time": "2024-04-20T12:00:00",
@@ -150,7 +141,7 @@
     }
 
     "event": {
-        "id": "16",
+        "id": "15",
         "type": "club",
         "club": "CSUN FSA & CSUN GWS",
         "event-name": "GWS Student Conference",
@@ -160,7 +151,7 @@
     }
 
     "event": {
-        "id": "17",
+        "id": "16",
         "type": "clubs",
         "club": "CSUN In the Loop",
         "event-name": "Picnic Potluck",
@@ -170,7 +161,7 @@
     }
 
     "event": {
-        "id": "18",
+        "id": "17",
         "type": "campus",
         "club": "",
         "event-name": "Art Jam",
@@ -180,7 +171,7 @@
     }
 
     "event": {
-        "id": "19",
+        "id": "18",
         "type": "campus",
         "club": "",
         "event-name": "Game Night",
@@ -190,7 +181,7 @@
     }
 
     "event": {
-        "id": "20",
+        "id": "19",
         "type": "campus",
         "club": "",
         "event-name": "Social Justice Conference",

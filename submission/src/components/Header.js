@@ -6,7 +6,7 @@ const Header = () => {
   return (
     <div className="custom-nav">
         <Navbar className="custom-nav">
-            <Navbar.Brand className="title-text"as={Link} to ="/">CSUN Notify</Navbar.Brand>
+            <Navbar.Brand className="title-text"as={Link} to ="/"><span className="csun-text">CSUN</span> Notify</Navbar.Brand>
             <Nav>
                 <Nav.Link as={Link} to="/">Home</Nav.Link>
                 <Nav.Link as={Link} to="/Calendar">Calendar</Nav.Link>
