@@ -70,13 +70,13 @@ const Homepage = () => {
           {events.map(event => (
             <Carousel.Item key={event.id}>
               <img
-                className="d-block w-100"
-                src="https://source.unsplash.com/1600x900/?event"
+                className="d-block w-100 carousel-image"
+                src={`https://source.unsplash.com/1600x900/?event&${Math.random()}`}
                 alt="First slide"
               />
               <Carousel.Caption>
-                <h3>{event['event-name']}</h3>
-                <p>
+                <h3 style={{fontWeight: "bold"}}>{event['event-name']}</h3>
+                <p style={{color: "white", fontWeight: "bold"}}>
                   Start Time: {event['start-time']}<br />
                   End Time: {event['end-time']}<br />
                   Location: {event.location}
