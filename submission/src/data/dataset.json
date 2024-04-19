@@ -11,8 +11,8 @@
     
     "event": {
         "id": "2",
-        "type": "campus",
-        "club": "",
+        "type": "club",
+        "club": "CSUN Sustainability",
         "event-name": "Earth Fair",
         "start-time": "2024-04-25T10:00:00",
         "end-time": "2024-04-25T15:00:00",
@@ -82,7 +82,7 @@
     "event": {
         "id": "9",
         "type": "club",
-        "club": "FASA",
+        "club": "CSUN FASA",
         "event-name": "Pinoy Culture Night",
         "start-time": "2024-04-21T19:00:00",
         "end-time": "2024-04-21",
@@ -124,38 +124,77 @@
         "type": "campus",
         "club": "",
         "event-name": "Tea Haven",
-        "start-time": "2024-04-22T13:30:00",
-        "end-time": "2024-04-22T16:30:00",
+        "start-time": "2024-05-02T13:30:00",
+        "end-time": "2024-05-02T15:30:00",
         "location": ""
     }
 
     "event": {
-        "id": "",
-        "type": "",
-        "club": "",
-        "event-name": "",
-        "start-time": "2024-04-22T13:30:00",
-        "end-time": "2024-04-22T16:30:00",
-        "location": ""
+        "id": "14",
+        "type": "club",
+        "club": "CSUN Sustainability",
+        "event-name": "Beach Clean Up",
+        "start-time": "2024-04-20T9:00:00",
+        "end-time": "2024-04-22T14:00:00",
+        "location": "Santa Monica Beach"
     }
 
     "event": {
-        "id": "",
-        "type": "",
-        "club": "",
-        "event-name": "",
-        "start-time": "2024-04-22T13:30:00",
-        "end-time": "2024-04-22T16:30:00",
-        "location": ""
+        "id": "15",
+        "type": "club",
+        "club": "CSUN BSU & CSUN EASA",
+        "event-name": "SoCal Picnic & Field Day",
+        "start-time": "2024-04-20T12:00:00",
+        "end-time": "2024-04-20",
+        "location": "Kenneth Hahn State Recreaction Area"
     }
 
     "event": {
-        "id": "",
-        "type": "",
-        "club": "",
-        "event-name": "",
-        "start-time": "2024-04-22T13:30:00",
-        "end-time": "2024-04-22T16:30:00",
-        "location": ""
+        "id": "16",
+        "type": "club",
+        "club": "CSUN FSA & CSUN GWS",
+        "event-name": "GWS Student Conference",
+        "start-time": "2024-05-01T10:30:00",
+        "end-time": "2024-05-01T18:30:00",
+        "location": "Aronstam Library (Manzantina Hall)"
     }
-}
+
+    "event": {
+        "id": "17",
+        "type": "clubs",
+        "club": "CSUN In the Loop",
+        "event-name": "Picnic Potluck",
+        "start-time": "2024-04-19T14:30:00",
+        "end-time": "2024-04-19T16:30:00",
+        "location": "Bayramian Lawn"
+    }
+
+    "event": {
+        "id": "18",
+        "type": "campus",
+        "club": "",
+        "event-name": "Art Jam",
+        "start-time": "2024-04-25T12:00:00",
+        "end-time": "2024-04-25T13:30:00",
+        "location": "Plaza Del Sol"
+    }
+
+    "event": {
+        "id": "19",
+        "type": "campus",
+        "club": "",
+        "event-name": "Game Night",
+        "start-time": "2024-04-30T17:00:00",
+        "end-time": "2024-04-30T19:00:00",
+        "location": "Veterans Resource Center"
+    }
+
+    "event": {
+        "id": "20",
+        "type": "campus",
+        "club": "",
+        "event-name": "Social Justice Conference",
+        "start-time": "2024-04-23T11:00:00",
+        "end-time": "2024-04-23T18:30:00",
+        "location": "Northridge Center (East Conference Center)"
+    }
