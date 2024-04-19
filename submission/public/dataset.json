@@ -1,7 +1,5 @@
 [
     {
-[
-    {
         "id": "1",
         "type": "campus",
         "club": "",
@@ -9,8 +7,6 @@
         "start-time": "2024-04-22T13:30:00",
         "end-time": "2024-04-22T16:30:00",
         "location": "Northridge Center"
-    },
-    {
     },
     {
         "id": "2",
@@ -22,8 +18,6 @@
         "location": "Bayramian Lawn"
     },
     {
-    },
-    {
         "id": "3",
         "type": "campus",
         "club": "",
@@ -31,8 +25,6 @@
         "start-time": "2024-04-25T19:45:00",
         "end-time": "2024-04-25",
         "location": "SSRC Pool"
-    },
-    {
     },
     {
         "id": "4",
@@ -44,8 +36,6 @@
         "location": "Plaza Del Sol"
     },
     {
-    },
-    {
         "id": "5",
         "type": "campus",
         "club": "",
@@ -53,8 +43,6 @@
         "start-time": "2024-04-30T10:00:00",
         "end-time": "2024-04-30T15:00:00",
         "location": "Matador Square"
-    },
-    {
     },
     {
         "id": "6",
@@ -66,8 +54,6 @@
         "location": "Northridge Center"
     },
     {
-    },
-    {
         "id": "7",
         "type": "campus",
         "club": "",
@@ -77,8 +63,6 @@
         "location": "Matador Statue"
     },
     {
-    },
-    {
         "id": "8",
         "type": "campus",
         "club": "",
@@ -86,8 +70,6 @@
         "start-time": "2024-05-17T12:00:00",
         "end-time": "2024-05-17T15:00:00",
         "location": "Northridge Center"
-    },
-    {
     },
     {
         "id": "9",

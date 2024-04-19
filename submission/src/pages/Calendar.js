@@ -44,6 +44,7 @@
 
 import React, { useEffect, useState } from 'react';
 import { Card } from 'react-bootstrap';
+import Header  from '../components/Header';
 
 const Calendar = () => {
   const [events, setEvents] = useState([]);
@@ -56,6 +57,7 @@ const Calendar = () => {
 
   return (
     <div className="Home">
+        <Header/>
       {events.map(event => (
         <Card key={event.id}>
           <Card.Body>
