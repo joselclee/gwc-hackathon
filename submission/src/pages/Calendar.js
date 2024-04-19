@@ -1,7 +1,11 @@
+import React, { useState, useEffect } from 'react';
+
 import Header from '../components/Header'
 import Card from 'react-bootstrap/Card';
 import Col from 'react-bootstrap/Col';
 import Row from 'react-bootstrap/Row';
+
+import jsonData from '../data/dataset.json';
 
 const Calendar = () => {
   return (
@@ -20,8 +24,9 @@ function GridExample() {
           <Card>
             <Card.Img variant="top" src="holder.js/100px160" />
             <Card.Body>
-              <Card.Title>Card title</Card.Title>
+              <Card.Title>{jsonData.event['event-name']}</Card.Title>
               <Card.Text>
+              {jsonData.event['start-time']} <br/><br/>
                 This is a longer card with supporting text below as a natural
                 lead-in to additional content. This content is a little bit
                 longer.
