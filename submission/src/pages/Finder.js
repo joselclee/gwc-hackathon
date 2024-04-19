@@ -4,6 +4,7 @@ const Finder = () => {
   return (
     <div>
         <Header />
+        Find events page
     </div>
   )
 }

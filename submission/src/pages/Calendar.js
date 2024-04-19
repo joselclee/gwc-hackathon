@@ -1,8 +1,10 @@
-import React from 'react'
-
+import Header from '../components/Header'
 const Calendar = () => {
   return (
-    <div>Calendar</div>
+    <div>
+        <Header />
+        Calendar page
+    </div>
   )
 }
 

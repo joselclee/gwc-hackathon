@@ -1,0 +1,10 @@
+{
+    "event": {
+        "id": "1",
+        "type": "sports",
+        "club": "",
+        "start-time": "2024-01-19T13:30:00",
+        "end-time": "2024-01-19T16:30:00",
+        "location": "Northridge Center"
+    }
+}
